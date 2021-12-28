@@ -40,4 +40,11 @@
                   </ol>
                </div>
             </div>
-            <a href="https://alborzapex.com/product/%d8%aa%d9%82%d9%88%db%8c%d9%85-%d8%b4%d9%85%d8%b3%db%8c-%d9%88-%d8%b3%d8%a7%d8%b9%d8%aa-persian-date-time-picker/"  target="_blank" title="Alborz APEX">Persian Date Time Picker in Aborz APEX</a>
+            <a href="https://alborzapex.com/product/%d8%aa%d9%82%d9%88%db%8c%d9%85-%d8%b4%d9%85%d8%b3%db%8c-%d9%88-%d8%b3%d8%a7%d8%b9%d8%aa-persian-date-time-picker/"  target="_blank" title="Alborz APEX"><strong>Persian Date Time Picker in Aborz APEX</strong></a>
+</br>
+<p>
+<div>We used the following links:</div>
+https://github.com/planetapex/apex-plugin-dynamicDateTimePicker
+</br>
+https://babakhani.github.io/PersianWebToolkit/doc/datepicker/
+</p>
