@@ -1,6 +1,8 @@
 # Oracle-APEX-Persian-Date-Time-Picker
 <img src="https://github.com/alborzapex/Oracle-APEX-Persian-Date-Time-Picker/blob/main/alborzapex-date-time-picker.jpg">
 <img src="https://alborzapex.com/wp-content/uploads/2021/12/alborzapex-persian-date-time-picker-setting.jpg">
+<img src="https://alborzapex.com/wp-content/uploads/2022/01/nls_calendar.gif">
+<img src="https://alborzapex.com/wp-content/uploads/2022/01/date-time-format.gif">
 <div class="props_rev_3"><a id="GUID-026EF048-9FDD-49A1-B17E-BA8051967B86" name="GUID-026EF048-9FDD-49A1-B17E-BA8051967B86" tabindex="-1"></a>
 
 <h3 id="HTMDB-GUID-026EF048-9FDD-49A1-B17E-BA8051967B86" class="sect3"><span class="enumeration_section"></span><a href="https://docs.oracle.com/en/database/oracle/application-express/19.1/htmdb/implementing-plug-ins.html#GUID-026EF048-9FDD-49A1-B17E-BA8051967B86" target="_blank" title="Create plug-ins to declaratively extend, share, and reuse the built-in types available with Oracle Application Express.">Importing a Plug-in from the Plug-in Page</a>
